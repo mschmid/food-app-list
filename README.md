@@ -6,12 +6,28 @@ Pull requests are welcome!
 ## Storage
 
 https://www.speisekammer-app.de
+https://pantrify.gartorware.com
+https://www.stocky-app.de/ (not yet live)
+https://foodstorageapp.com/
+https://grocy.info/
+https://www.nowasteapp.com/
+
+
 
 ## Recipes, Preparation and Cooking
 
 http://www.kalorio.de/
 http://www.kalorio.de/KalorioNext/index.html
 https://www.rezeptrechner.de/mobile-app/
+https://www.copymethat.com/
+
+## Shopping List
+
+https://getbring.com/
+https://www.rememberthemilk.com/
+http://outofmilk.com/
+
+
 
 ## Nutrition and product infos
 
